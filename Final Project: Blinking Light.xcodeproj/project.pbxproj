@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A2CBE90C2407AABE0020C41C /* Untitled.png in Resources */ = {isa = PBXBuildFile; fileRef = A2CBE90B2407AABE0020C41C /* Untitled.png */; };
 		A2DBA32D23CDAAAE005FB8EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2DBA32C23CDAAAE005FB8EB /* AppDelegate.swift */; };
 		A2DBA32F23CDAAAE005FB8EB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2DBA32E23CDAAAE005FB8EB /* ViewController.swift */; };
 		A2DBA33223CDAAAE005FB8EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2DBA33023CDAAAE005FB8EB /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A2CBE90B2407AABE0020C41C /* Untitled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Untitled.png; path = ../../Untitled.png; sourceTree = "<group>"; };
 		A2DBA32923CDAAAE005FB8EB /* Final Project: Blinking Light.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final Project: Blinking Light.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2DBA32C23CDAAAE005FB8EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2DBA32E23CDAAAE005FB8EB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				A2DBA33323CDAAB1005FB8EB /* Assets.xcassets */,
 				A2DBA33523CDAAB1005FB8EB /* LaunchScreen.storyboard */,
 				A2DBA33823CDAAB1005FB8EB /* Info.plist */,
+				A2CBE90B2407AABE0020C41C /* Untitled.png */,
 			);
 			path = "Final Project: Blinking Light";
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2CBE90C2407AABE0020C41C /* Untitled.png in Resources */,
 				A2DBA33723CDAAB1005FB8EB /* LaunchScreen.storyboard in Resources */,
 				A2DBA33423CDAAB1005FB8EB /* Assets.xcassets in Resources */,
 				A2DBA33223CDAAAE005FB8EB /* Main.storyboard in Resources */,
